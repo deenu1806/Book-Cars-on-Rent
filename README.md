@@ -1,6 +1,6 @@
 Car Rental System
-Explore the world of car rentals with the Car Rental System, 
-A Java-based console application that combines learning and simulation. 
+Explore the world of car rentals with the Car Rental System,                                                                    
+A Java-based console application that combines learning and simulation.                                                                                                                                                                                         
 
 Features
 Rent a Car: Experience the ease of renting cars through an interactive console.                                                 
